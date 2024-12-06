@@ -40,8 +40,8 @@ pyinstaller --onefile --windowed --icon=icon.ico app.py
 ```
 
 - `--onefile`: Creates a single executable file.
-- `--windowed`: Suppresses the terminal window for GUI apps.
-- `--icon=chess_icon.ico`: Specifies the icon for the app.
+- `--windowed`: Hides the terminal window for GUI apps.
+- `--icon=icon.ico`: Specifies the icon for the app.
 
 ### Step 3: Find the Executable
 
